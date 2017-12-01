@@ -8,7 +8,7 @@ import scipy.interpolate as interpolate
 import scipy.integrate as integrate
 
 def load_geom(x = []):
-    
+    #Testando o GIT com modificacao
 
     
     ### Inicializa aviao
