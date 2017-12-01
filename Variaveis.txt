@@ -1,0 +1,15 @@
+Diametro fuselagem na secao da asa
+
+Diametro fuselagem na secao da eh
+
+Angulo de incidencia da asa
+
+Vista de secao ao longo do eixo longitudinal (mais vistas em secoes de variacao maior de geometria, pelo menos 10 secoes no total)
+Vista em planta da asa
+
+Distancia LE-asa ao spinner
+
+Distancia LE EH ao spinner
+
+Vista em planta da EH
+
